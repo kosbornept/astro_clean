@@ -5,7 +5,7 @@
             <h1 class=" text-4xl font-bold text-white">To make music better every day.</h1>
             <p class=" text-xl text-white">You can rest assured that your life's work is safe within our hands.</p>
         </div>
-        <div style="background-image:url('/heroBackground.png')" class="bg-no-repeat bg-cover bg-center overflow-hidden max-h-[90%] mt-5">
+        <div style="background-image:url('/astro_clean/heroBackground.png')" class="bg-no-repeat bg-cover bg-center overflow-hidden max-h-[90%] mt-5">
 
         </div>
     </div>
